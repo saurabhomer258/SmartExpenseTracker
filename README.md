@@ -145,7 +145,3 @@ AI tools were used to:
 - Create validation & duplicate detection logic.
 - Write README and in-code comments.
 
----
-
-## 📄 License
-This project is licensed under the **MIT License**.
